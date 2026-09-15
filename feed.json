@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "EV Charging Canada",
     "description": "",
-    "home_page_url": "https://mrsprdave.github.io/EVChargingCanada",
-    "feed_url": "https://mrsprdave.github.io/EVChargingCanada/feed.json",
+    "home_page_url": "https://evchargingcanada.ca",
+    "feed_url": "https://evchargingcanada.ca/feed.json",
     "user_comment": "",
     "author": {
         "name": "Dave"

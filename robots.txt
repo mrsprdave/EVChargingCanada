@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://mrsprdave.github.io/EVChargingCanada/sitemap.xml
+Sitemap: https://evchargingcanada.ca/sitemap.xml
