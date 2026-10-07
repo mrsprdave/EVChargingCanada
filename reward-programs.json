@@ -1,23 +1,20 @@
 [
   {
-    "id": "chargeclub",
-    "name": "ChargeClub",
-    "rewardRatePerKwh": 0.05,
-    "payoutSchedule": "monthly",
-    "requiresSmartCharger": false
+    "id": "GreenMiles",
+    "name": "GreenMiles",
+    "rewardRatePerKwh": 10,
+    "payoutSchedule": "annual"
   },
   {
-    "id": "clearshot",
-    "name": "Clearshot Labs",
-    "rewardRatePerKwh": 0.07,
-    "payoutSchedule": "quarterly",
-    "requiresSmartCharger": true
+    "id": "Grizzle",
+    "name": "Grizzle",
+    "rewardRatePerKwh": 3,
+    "payoutSchedule": "monthly"
   },
   {
-    "id": "metroev",
-    "name": "metroEV",
-    "rewardRatePerKwh": 0.04,
-    "payoutSchedule": "monthly",
-    "requiresSmartCharger": false
+    "id": "DashSharing",
+    "name": "DashSharing",
+    "rewardRatePerKwh": 11,
+    "payoutSchedule": "monthly"
   }
 ]
