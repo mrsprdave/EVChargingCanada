@@ -2,18 +2,21 @@
   {
     "id": "GreenMiles",
     "name": "GreenMiles",
+    "url": "/greenmiles",
     "rewardRatePerKwh": 10,
     "payoutSchedule": "annual"
   },
   {
-    "id": "Grizzle",
-    "name": "Grizzle",
+    "id": "Grizzl-E",
+    "name": "Grizzl-E",
+    "url": "/grizzl-e",
     "rewardRatePerKwh": 3,
     "payoutSchedule": "monthly"
   },
   {
     "id": "DashSharing",
     "name": "DashSharing",
+    "url": "/dashsharing",
     "rewardRatePerKwh": 11,
     "payoutSchedule": "monthly"
   }
