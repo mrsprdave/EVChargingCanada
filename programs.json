@@ -66,8 +66,18 @@
    "Tier 1":"13¢", "End":"N/A", "Tier 2":"13¢", "Payout":"ann.", "Charger":"OCPP", "Prov":"all"},  
   {"Name":"GreenMiles", "PageUrl":"greenmiles.html",
       "tiers": [
-      { "max": 1000, "rate": 10 },
-      { "max": null, "rate": 16 }
+      { "max": null, "rate": 10 }
+    ],
+	"promotions": [
+      {
+        "name": "Thanksgiving Bonus",
+        "startDate": "2026-10-01",
+        "endDate": "2026-12-31",
+        "tiers": [
+          { "max": 5000, "rate": 10 },
+          { "max": null, "rate": 16 }
+        ]
+      }
     ],
    "Tier 1":"10¢", "End":"5000 kWh", "Tier 2":"16¢", "Payout":"ann.", "Charger":"Buy", "Prov":"all"},
   {"Name":"Grizzl-E Essential", "PageUrl":"grizzl-E.html",
