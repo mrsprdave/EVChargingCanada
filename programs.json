@@ -101,6 +101,21 @@
 	  { "max": 25000, "rate": 9 },
       { "max": null, "rate": 10 }
     ],
+	"promotions": [
+      {
+        "name": "Thanksgiving Bonus",
+        "startDate": "2026-10-01",
+        "endDate": "2027-09-30",
+        "tiers": [
+      { "max": 5000, "rate": 10 },
+      { "max": 10000, "rate": 11 },
+	  { "max": 15000, "rate": 12 },
+	  { "max": 20000, "rate": 13 },
+	  { "max": 25000, "rate": 14 },
+      { "max": null, "rate": 15 }
+        ]
+      }
+    ],
    "Tier 1":"10¢", "End":"5000 kWh", "Tier 2":"11¢", "Payout":"mthly", "Charger":"Buy", "Prov":"all"},
   {"Name":"HoneyBadger", "PageUrl":"honeybadger.html",   
    "tiers": [
@@ -151,7 +166,17 @@
    "Tier 1":"10¢", "End":"N/A", "Tier 2":"10¢", "Payout":"$50", "Charger":"OCPP, Buy", "Prov":"all"},  
   {"Name":"WattsApp", "PageUrl":"wattsapp.html",   
    "tiers": [
-      { "max": null, "rate": 18 }
+      { "max": null, "rate": 3 }
+    ],
+	"promotions": [
+      {
+        "name": "15pt bonus (projected)",
+        "startDate": "2026-10-01",
+        "endDate": "2026-12-31",
+        "tiers": [
+          { "max": null, "rate": 18 }
+        ]
+      }
     ],
    "Tier 1":"18¢", "End":"N/A", "Tier 2":"18¢", "Payout":"ann.", "Charger":"Tesla", "Prov":"all"}
 ]
