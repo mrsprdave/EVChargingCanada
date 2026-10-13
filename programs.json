@@ -80,7 +80,7 @@
         ]
       }
     ],
-   "note":"Excludes loyalty and half-year bonuses",
+   "note":"Excludes Top-up bonuses",
    "Tier 1":"10¢", "End":"5000 kWh", "Tier 2":"16¢", "Payout":"ann.", "Charger":"Buy", "Prov":"all"},
   {"Name":"Grizzl-E Essential", "PageUrl":"grizzl-E.html",
       "tiers": [
@@ -213,7 +213,7 @@
     ],
 	"promotions": [
       {
-        "name": "15pt bonus (Dec. projected)",
+        "name": "15pt Bonus",
         "startDate": "2026-10-01",
         "endDate": "2026-12-31",
         "tiers": [
@@ -221,5 +221,6 @@
         ]
       }
     ],
+	"note":"Bonus projected through Dec.",
    "Tier 1":"18¢", "End":"N/A", "Tier 2":"18¢", "Payout":"ann.", "Charger":"Tesla", "Prov":"all"}
 ]
