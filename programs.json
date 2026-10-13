@@ -152,6 +152,47 @@
    "tiers": [
       { "max": null, "rate": 13 }
     ],
+	"provinceTiers": {
+    "AB": [
+      { "max": null, "rate": 8 }
+    ],
+    "BC": [
+      { "max": null, "rate": 13 }
+    ],
+    "MB": [
+      { "max": null, "rate": 13 }
+    ],
+    "NB": [
+      { "max": null, "rate": 10 }
+    ],
+    "NL": [
+      { "max": null, "rate": 13 }
+    ],
+    "NS": [
+      { "max": null, "rate": 6 }
+    ],
+    "NT": [
+      { "max": null, "rate": 11 }
+    ],
+    "NU": [
+      { "max": null, "rate": 4 }
+    ],
+    "ON": [
+      { "max": null, "rate": 13 }
+    ],
+    "PE": [
+      { "max": null, "rate": 12 }
+    ],
+    "QC": [
+      { "max": null, "rate": 13 }
+    ],
+    "SK": [
+      { "max": null, "rate": 6 }
+    ],
+    "YT": [
+      { "max": null, "rate": 12 }
+    ]
+  }
    "Tier 1":"13¢", "End":"N/A", "Tier 2":"13¢", "Payout":"ann.", "Charger":"OCPP, Tesla, Buy", "Prov":"all"},   
   {"Name":"SWTCH", "PageUrl":"swtch.html",
    "tiers": [
