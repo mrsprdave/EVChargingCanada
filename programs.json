@@ -32,7 +32,7 @@
 	  { "max": 3000, "rate": 15 },
       { "max": null, "rate": 16 }
     ],
-   "Tier 1":"13¢", "End":"1000 kWh", "Tier 2":"16¢", "Payout":"ann.", "Charger":"Free", "Prov":"ON"},
+   "Tier 1":"13¢", "End":"1000 kWh", "Tier 2":"14¢", "Payout":"ann.", "Charger":"Free", "Prov":"ON"},
   {"Name":"Chargy", "PageUrl":"chargy.html",   
    "tiers": [
       { "max": null, "rate": 10 }
