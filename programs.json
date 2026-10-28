@@ -64,7 +64,13 @@
    "tiers": [
       { "max": null, "rate": 13 }
     ],
-   "Tier 1":"13¢", "End":"N/A", "Tier 2":"13¢", "Payout":"ann.", "Charger":"OCPP", "Prov":"all"},  
+   "Tier 1":"13¢", "End":"N/A", "Tier 2":"13¢", "Payout":"ann.", "Charger":"OCPP", "Prov":"all"}, 
+  {"Name":"FLO Reward", "PageUrl":"flo.html",   
+   "tiers": [
+      { "max": null, "rate": 10 }
+    ],
+	"note":"Also public charging",
+   "Tier 1":"10¢", "End":"N/A", "Tier 2":"10¢", "Payout":"ann.", "Charger":"Buy", "Prov":"all"},   
   {"Name":"GreenMiles", "PageUrl":"greenmiles.html",
       "tiers": [
       { "max": null, "rate": 10 }
