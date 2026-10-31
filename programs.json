@@ -4,7 +4,7 @@
       { "max": null, "rate": 10 }
     ],
 	"note":"Excludes loyalty and half-year bonuses",
-   "Tier 1":"10¢", "End":"N/A", "Tier 2":"10¢", "Payout":"qtrly", "Charger":"OCPP", "Cost":"600", "CostNote":"OCPP" "Prov":"all"},
+   "Tier 1":"10¢", "End":"N/A", "Tier 2":"10¢", "Payout":"qtrly", "Charger":"OCPP", "Cost":"600", "CostNote":"OCPP", "Prov":"all"},
   {"Name":"Charging Right Freemium", "PageUrl":"charging-right.html",
       "tiers": [
       { "max": 1000, "rate": 3 },
