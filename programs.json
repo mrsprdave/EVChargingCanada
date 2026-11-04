@@ -201,6 +201,14 @@
       { "max": null, "rate": 12 }
     ]
   },
+  {"Name":"Soneil Spark", "PageUrl":"soneil-spark.html",
+       "tiers": [
+      { "max": 1250, "rate": 6 },
+      { "max": null, "rate": 11 }
+    ],
+	"note":"Excludes $20 bonus",
+   "Tier 1":"6¢", "End":"1250 kWh", "Tier 2":"11¢", "Payout":"$50", "Charger":"Free", "Prov":"all"},
+  
    "Tier 1":"13¢", "End":"N/A", "Tier 2":"13¢", "Payout":"ann.", "Charger":"OCPP, Tesla, Buy", "Cost":"600", "CostNote":"OCPP", "Prov":"all"},   
   {"Name":"SWTCH", "PageUrl":"swtch.html",
    "tiers": [
