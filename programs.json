@@ -25,14 +25,6 @@
       { "max": null, "rate": 13 }
     ],
    "Tier 1":"10¢", "End":"1000 kWh", "Tier 2":"11¢", "Payout":"ann.", "Charger":"OCPP", "Cost":"600", "CostNote":"OCPP", "Prov":"ON"},
-  {"Name":"Charging Right Premium Plus", "PageUrl":"charging-right.html",
-      "tiers": [
-      { "max": 1000, "rate": 13 },
-      { "max": 2000, "rate": 14 },
-	  { "max": 3000, "rate": 15 },
-      { "max": null, "rate": 16 }
-    ],
-   "Tier 1":"13¢", "End":"1000 kWh", "Tier 2":"14¢", "Payout":"ann.", "Charger":"Free", "Prov":"ON"},
   {"Name":"Chargy", "PageUrl":"chargy.html",   
    "tiers": [
       { "max": null, "rate": 10 }
@@ -201,6 +193,7 @@
       { "max": null, "rate": 12 }
     ]
   },
+  "Tier 1":"13¢", "End":"N/A", "Tier 2":"13¢", "Payout":"ann.", "Charger":"OCPP, Tesla, Buy", "Cost":"600", "CostNote":"OCPP", "Prov":"all"},   
   {"Name":"Soneil Spark", "PageUrl":"soneil-spark.html",
        "tiers": [
       { "max": 1250, "rate": 6 },
@@ -208,8 +201,6 @@
     ],
 	"note":"Excludes $20 bonus",
    "Tier 1":"6¢", "End":"1250 kWh", "Tier 2":"11¢", "Payout":"$50", "Charger":"Free", "Prov":"all"},
-  
-   "Tier 1":"13¢", "End":"N/A", "Tier 2":"13¢", "Payout":"ann.", "Charger":"OCPP, Tesla, Buy", "Cost":"600", "CostNote":"OCPP", "Prov":"all"},   
   {"Name":"SWTCH", "PageUrl":"swtch.html",
    "tiers": [
       { "max": 1500, "rate": 3 },
