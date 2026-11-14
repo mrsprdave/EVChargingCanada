@@ -220,12 +220,12 @@
       {
         "name": "15pt Bonus",
         "startDate": "2026-10-01",
-        "endDate": "2026-12-31",
+        "endDate": "2027-01-31",
         "tiers": [
           { "max": null, "rate": 18 }
         ]
       }
     ],
-	"note":"Bonus projected through Dec.",
+	"note":"Bonus projected through Jan.",
    "Tier 1":"18¢", "End":"N/A", "Tier 2":"18¢", "Payout":"ann.", "Charger":"Tesla", "Cost":"815", "CostNote":"Tesla", "Prov":"all"}
 ]
