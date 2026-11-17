@@ -193,6 +193,7 @@
       { "max": null, "rate": 12 }
     ]
   },
+  "note":"Vary by Province",
   "Tier 1":"13¢", "End":"N/A", "Tier 2":"13¢", "Payout":"ann.", "Charger":"OCPP, Tesla, Buy", "Cost":"600", "CostNote":"OCPP", "Prov":"all"},   
   {"Name":"Soneil Spark", "PageUrl":"soneil-spark.html",
        "tiers": [
